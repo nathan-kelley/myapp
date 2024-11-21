@@ -1,0 +1,6 @@
+environment:
+  name: mydev
+  identifier: mydev
+  orgIdentifier: default
+  projectIdentifier: letsgo
+  type: PreProduction
